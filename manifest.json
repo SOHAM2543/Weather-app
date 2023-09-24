@@ -1,0 +1,11 @@
+{
+    "name": "Live Weather webapp",
+    "version": "1.0.0",
+    "description": "webapp for getting weather information at any location.",
+    "manifest_version": 3,
+    "author": "Soham Jagtap",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Live Weather webapp"
+    }
+}
